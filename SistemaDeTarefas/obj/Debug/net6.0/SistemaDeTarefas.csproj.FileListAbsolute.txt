@@ -86,3 +86,7 @@ C:\Projeto C#\Projeto2023\ProjetoMelhoresPraticasaArquiteturas.NetCore\ApiTarefa
 C:\Projeto C#\Projeto2023\ProjetoMelhoresPraticasaArquiteturas.NetCore\ApiTarefas.Netcore\SistemaDeTarefas\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 C:\Projeto C#\Projeto2023\ProjetoMelhoresPraticasaArquiteturas.NetCore\ApiTarefas.Netcore\SistemaDeTarefas\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
 C:\Projeto C#\Projeto2023\ProjetoMelhoresPraticasaArquiteturas.NetCore\ApiTarefas.Netcore\SistemaDeTarefas\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projeto C#\Projeto2023\ProjetoMelhoresPraticasaArquiteturas.NetCore\ApiTarefas.Netcore\SistemaDeTarefas\bin\Debug\net6.0\Dapper.dll
+C:\Projeto C#\Projeto2023\ProjetoMelhoresPraticasaArquiteturas.NetCore\ApiTarefas.Netcore\SistemaDeTarefas\bin\Debug\net6.0\FluentMigrator.Abstractions.dll
+C:\Projeto C#\Projeto2023\ProjetoMelhoresPraticasaArquiteturas.NetCore\ApiTarefas.Netcore\SistemaDeTarefas\bin\Debug\net6.0\FluentMigrator.Runner.Core.dll
+C:\Projeto C#\Projeto2023\ProjetoMelhoresPraticasaArquiteturas.NetCore\ApiTarefas.Netcore\SistemaDeTarefas\bin\Debug\net6.0\de-DE\FluentMigrator.Abstractions.resources.dll
