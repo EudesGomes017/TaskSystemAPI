@@ -4,9 +4,11 @@ using Domain.Interface;
 using Domain.Interface.Repository;
 using Domain.Interface.ServicesRepository;
 using Domain.services.serviceUser;
+using Domain.services.serviceUser.Criptorgrafia;
 using Domain.services.serviceUser.InterfaceUsersServices;
 using Exceptions.ExceptionBase;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,6 +21,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+builder.Services.AddApplication(builder.Configuration);
 
 builder.Services.AddDbContext<TaskDbContex>(options =>
 {
@@ -39,6 +42,8 @@ builder.Services.AddScoped<ISearchEamil, SEamil>();
 
 builder.Services.AddScoped<IUserUp, UserUp>();
 builder.Services.AddScoped<IDeleteUser, DeleteUser>();
+
+
 
 // Add services to the container.
 builder.Services.AddControllers()
