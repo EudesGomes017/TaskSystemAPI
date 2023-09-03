@@ -60,7 +60,6 @@ C:\Projeto C#\Projeto2023\ProjetoMelhoresPraticasaArquiteturas.NetCore\ApiTarefa
 C:\Projeto C#\Projeto2023\ProjetoMelhoresPraticasaArquiteturas.NetCore\ApiTarefas.Netcore\SistemaDeTarefas\obj\Debug\net6.0\SistemaDeTarefas.AssemblyInfoInputs.cache
 C:\Projeto C#\Projeto2023\ProjetoMelhoresPraticasaArquiteturas.NetCore\ApiTarefas.Netcore\SistemaDeTarefas\obj\Debug\net6.0\SistemaDeTarefas.AssemblyInfo.cs
 C:\Projeto C#\Projeto2023\ProjetoMelhoresPraticasaArquiteturas.NetCore\ApiTarefas.Netcore\SistemaDeTarefas\obj\Debug\net6.0\SistemaDeTarefas.csproj.CoreCompileInputs.cache
-C:\Projeto C#\Projeto2023\ProjetoMelhoresPraticasaArquiteturas.NetCore\ApiTarefas.Netcore\SistemaDeTarefas\obj\Debug\net6.0\SistemaDeTarefas.MvcApplicationPartsAssemblyInfo.cs
 C:\Projeto C#\Projeto2023\ProjetoMelhoresPraticasaArquiteturas.NetCore\ApiTarefas.Netcore\SistemaDeTarefas\obj\Debug\net6.0\SistemaDeTarefas.MvcApplicationPartsAssemblyInfo.cache
 C:\Projeto C#\Projeto2023\ProjetoMelhoresPraticasaArquiteturas.NetCore\ApiTarefas.Netcore\SistemaDeTarefas\obj\Debug\net6.0\staticwebassets\msbuild.SistemaDeTarefas.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Projeto C#\Projeto2023\ProjetoMelhoresPraticasaArquiteturas.NetCore\ApiTarefas.Netcore\SistemaDeTarefas\obj\Debug\net6.0\staticwebassets\msbuild.build.SistemaDeTarefas.props
