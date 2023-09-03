@@ -106,6 +106,15 @@ namespace Exceptions {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Esse e-mail já existe na base de Dados!.
+        /// </summary>
+        public static string EMAIL_CADASTRADO {
+            get {
+                return ResourceManager.GetString("EMAIL_CADASTRADO", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to E-mail informado inválido.
         /// </summary>
         public static string EMAIL_INVALIDO {

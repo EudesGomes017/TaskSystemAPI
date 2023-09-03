@@ -132,6 +132,9 @@
   <data name="DELETE_USER" xml:space="preserve">
     <value>Erro ao deletar o usuário !</value>
   </data>
+  <data name="EMAIL_CADASTRADO" xml:space="preserve">
+    <value>Esse e-mail já existe na base de Dados!</value>
+  </data>
   <data name="EMAIL_INVALIDO" xml:space="preserve">
     <value>E-mail informado inválido</value>
   </data>

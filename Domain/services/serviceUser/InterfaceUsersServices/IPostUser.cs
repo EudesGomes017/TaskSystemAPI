@@ -1,9 +1,10 @@
 ﻿using Domain.Dto;
+using Domain.Shared;
 
 namespace Domain.services.serviceUser.InterfaceUsersServices
 {
     public interface IPostUser
     {
-        Task<Object> AddUserAsync(ModelUserDto modelUser);
+        Task<ReplyJsonRegisteredUser> AddUserAsync(ModelUserDto modelUser);
     }
 }

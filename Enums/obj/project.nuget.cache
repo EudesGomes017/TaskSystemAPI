@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "S7It0xjIce2hQ1PTRQz+11Sq0aMVfCScHRyj3rfgm8M6aNtBzrUXcDAf8SmU5MBDuR/GGiB25iuEUUGVVeYQkw==",
+  "dgSpecHash": "lia7qIpXyJ9dqbtU+JrOCi8Uc1q0s6xrTsSWoB2WPGmlUHMj7kkGihpJud9Rox809IRP0lcR2MUefXPo5KzmHw==",
   "success": true,
   "projectFilePath": "C:\\Projeto C#\\Projeto2023\\ProjetoMelhoresPraticasaArquiteturas.NetCore\\ApiTarefas.Netcore\\Enums\\Enums.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\steel\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\steel\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\steel\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
+    "C:\\Users\\steel\\.nuget\\packages\\fluentmigrator.abstractions\\3.3.2\\fluentmigrator.abstractions.3.3.2.nupkg.sha512",
+    "C:\\Users\\steel\\.nuget\\packages\\fluentmigrator.runner.core\\3.3.2\\fluentmigrator.runner.core.3.3.2.nupkg.sha512",
     "C:\\Users\\steel\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\steel\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
     "C:\\Users\\steel\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.0\\microsoft.aspnetcore.cryptography.keyderivation.6.0.0.nupkg.sha512",
@@ -27,8 +30,10 @@
     "C:\\Users\\steel\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\steel\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\steel\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\steel\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
     "C:\\Users\\steel\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
-    "C:\\Users\\steel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\steel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\steel\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
   ],
   "logs": []
 }
